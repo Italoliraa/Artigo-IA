@@ -1,4 +1,3 @@
-# Desvendo o Mundo da Programação: Aventuras Digitais para Crianças
 
 ![Artigo](https://github.com/Italoliraa/Artigo-IA/assets/143004026/496dd396-a4f1-4e23-aa51-5bfc89146506)
 
